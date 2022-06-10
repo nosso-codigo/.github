@@ -1,1 +1,1 @@
-Aqui todo código é aberto, use como bem entender. MAS observe a licensa antes.
+Aqui todo código é aberto, use como bem entender. MAS observe a licença antes.
